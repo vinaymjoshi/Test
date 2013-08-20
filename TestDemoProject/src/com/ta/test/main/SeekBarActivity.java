@@ -31,6 +31,8 @@ public class SeekBarActivity extends Activity {
 				+ "hi, lorum ipsum  text \n" + "hi, lorum ipsum  text \n"
 				+ "hi, lorum ipsum  text \n";
 		tv.setTextSize(25);
+		
+		
 		tv.setText(text);
 		
 		layout.addView(tv);
