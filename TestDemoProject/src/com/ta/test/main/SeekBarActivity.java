@@ -33,6 +33,7 @@ public class SeekBarActivity extends Activity {
 		tv.setTextSize(26);
 		
 		tv.setTextSize(26);
+		
 		tv.setText(text);
 		
 		layout.addView(tv);
